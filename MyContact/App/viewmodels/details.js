@@ -1,5 +1,5 @@
 ﻿define(['services/logger'], function (logger) {
-    var title = 'Details';
+    var title = 'Details and my changes';
     var vm = {
         activate: activate,
         title: title
